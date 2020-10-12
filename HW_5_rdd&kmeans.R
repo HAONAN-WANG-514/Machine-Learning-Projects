@@ -1,10 +1,6 @@
 ## ---------------------------------------------------------------------------
 ## 
 ## Title:       Homework 05: RDD & K-Means Clustering
-## Author(s):   Danfeng Cao, Haonan Wang, Rajasa Kakkera, and Ana Parra Vera 
-## Affiliation: UC Davis MSBA Program
-## Description: BAX-452 â€? Machine Learning
-## Date:        2020-02-10
 ## 
 ## ---------------------------------------------------------------------------
 
